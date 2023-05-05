@@ -34,6 +34,7 @@
    4. I made the navbar responsive.
 
 9. I created a HeroImg.jsx and HeroImgStyles.css file in the components folder.
+
    1. I imported the HeroImgStyles.css file in the HeroImg.jsx file.
    2. In the HeroImg, I created the following;
       a. A background image.
@@ -43,18 +44,19 @@
 10. I created a Footer.jsx and FooterStyles.css file in the component folder.
 
 11. I created a HeroImg2.jsx and Heroimg2Styles.css file in the components folder.
-   1. I imported the HeroImg2Styles.css file in the HeroImg2.jsx file.
-   2. In the HeroImg2, I created the following;
-      a. A background image.
-      b. A props that contains a heading and a text
+12. I imported the HeroImg2Styles.css file in the HeroImg2.jsx file.
+13. In the HeroImg2, I created the following;
+    a. A background image.
+    b. A props that contains a heading and a text
 
-12. I created the following files in the components folder.
-   1. WorkCard.jsx file.
-   2. WorkCardStyles.css file 
-   3. WorkCardData.jsx file acting as an API.
-   4. Work.jsx file.
+14. I created the following files in the components folder.
+15. WorkCard.jsx file.
+16. WorkCardStyles.css file
+17. WorkCardData.jsx file acting as an API.
+18. Work.jsx file.
 
-
-
-
-
+19. I created the following files in the components folder.
+20. AboutContent.jsx file
+21. AboutContentStyles.css file
+22. Form.jsx file
+23. FormStyles.css file
