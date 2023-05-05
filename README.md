@@ -48,4 +48,13 @@
       a. A background image.
       b. A props that contains a heading and a text
 
+12. I created the following files in the components folder.
+   1. WorkCard.jsx file.
+   2. WorkCardStyles.css file 
+   3. WorkCardData.jsx file acting as an API.
+   4. Work.jsx file.
+
+
+
+
 
