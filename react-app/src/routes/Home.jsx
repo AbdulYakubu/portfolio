@@ -1,3 +1,4 @@
+import Footer from "../components/Footer";
 import HeroImg from "../components/HeroImg";
 import Navbar from "../components/Navbar";
 
@@ -9,6 +10,7 @@ const Home = () => {
     <div>
       <Navbar/>
       <HeroImg />
+      <Footer />
     </div>
   );
 };

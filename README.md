@@ -40,4 +40,5 @@
       b. A paragraph that consist of a text.
       c. Buttons.
 
+10. I created a Footer.jsx and FooterStyles.css file in the component folder.
 
