@@ -26,14 +26,14 @@
 
 7. I created a folder called components.
 
-8. I created a Navbar.jsx and NavbarStyles.css files in the component folder.
+8. I created a Navbar.jsx and NavbarStyles.css files in the components folder.
 
    1. I imported the NavbarStyles.css file in the Navbar.jsx file.
    2. In the Navbar.jsx, i created a link with the header Portfolio.
    3. I imported the The Navbar to the Home page.
    4. I made the navbar responsive.
 
-9. I created a HeroImg.jsx and HeroImgStyles.css file in the component folder.
+9. I created a HeroImg.jsx and HeroImgStyles.css file in the components folder.
    1. I imported the HeroImgStyles.css file in the HeroImg.jsx file.
    2. In the HeroImg, I created the following;
       a. A background image.
@@ -41,4 +41,11 @@
       c. Buttons.
 
 10. I created a Footer.jsx and FooterStyles.css file in the component folder.
+
+11. I created a HeroImg2.jsx and Heroimg2Styles.css file in the components folder.
+   1. I imported the HeroImg2Styles.css file in the HeroImg2.jsx file.
+   2. In the HeroImg2, I created the following;
+      a. A background image.
+      b. A props that contains a heading and a text
+
 
