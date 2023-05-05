@@ -18,16 +18,26 @@
    4. Project.jsx
 
 6. I imported all the following routes in the App.jsx file;
+
    1. Route for Home page.
    2. Route for About page.
    3. Route for Contact page.
    4. Route for Project page.
 
 7. I created a folder called components.
+
 8. I created a Navbar.jsx and NavbarStyles.css files in the component folder.
+
    1. I imported the NavbarStyles.css file in the Navbar.jsx file.
    2. In the Navbar.jsx, i created a link with the header Portfolio.
    3. I imported the The Navbar to the Home page.
    4. I made the navbar responsive.
+
+9. I created a HeroImg.jsx and HeroImgStyles.css file in the component folder.
+   1. I imported the HeroImgStyles.css file in the HeroImg.jsx file.
+   2. In the HeroImg, I created the following;
+      a. A background image.
+      b. A paragraph that consist of a text.
+      c. Buttons.
 
 
