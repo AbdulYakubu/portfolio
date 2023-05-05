@@ -22,3 +22,12 @@
    2. Route for About page.
    3. Route for Contact page.
    4. Route for Project page.
+
+7. I created a folder called components.
+8. I created a Navbar.jsx and NavbarStyles.css files in the component folder.
+   1. I imported the NavbarStyles.css file in the Navbar.jsx file.
+   2. In the Navbar.jsx, i created a link with the header Portfolio.
+   3. I imported the The Navbar to the Home page.
+   4. I made the navbar responsive.
+
+
